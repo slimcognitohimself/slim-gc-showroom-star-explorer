@@ -2,22 +2,25 @@
   "format": 2,
   "id": "rac2-showroom-star-explorer",
   "name": "Showroom Star Explorer",
-  "version": "0.3.4",
+  "version": "0.5.0",
   "author": "Slim Cognito",
-  "description": "Blargian Red becomes Showroom Silver, free at Slim Cognito's Ship Shack, and a new game starts with the showroom Star Explorer: Split Nose, Hi-Lift Wings, Triple Boost Acceleration Engine, Fusion Laser Cannons, Multi-Torpedo Launcher and Mega-Mine Launcher.",
+  "description": "Blargian Red is free and first among the paints at Slim Cognito's Ship Shack, a new free paint, Showroom Silver, sits right after it, and a new game starts with the showroom Star Explorer: Split Nose, Hi-Lift Wings, Triple Boost Acceleration Engine, Fusion Laser Cannons, Multi-Torpedo Launcher, Mega-Mine Launcher and Showroom Silver.",
   "license": "MIT",
   "type": "native",
-  "api": "1.6",
+  "api": "1.34",
   "games": {
     "rac2": [
-      "ntsc"
+      "ntsc",
+      "ntsc2",
+      "pal"
     ]
   },
   "plugin": {
     "windows-x86_64": "lib/windows-x86_64/showroom.dll"
   },
   "hooks": [
-    "rac2.text.by_id"
+    "rac2.text.by_id",
+    "rac2.vendor.preview"
   ],
   "multiplayer": "solo",
   "assets": "assets"

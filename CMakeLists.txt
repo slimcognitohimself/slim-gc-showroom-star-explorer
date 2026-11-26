@@ -26,7 +26,7 @@ if(NOT OpenRACMod_DIR)
     endif()
   endif()
 endif()
-find_package(OpenRACMod 1.20 REQUIRED)
+find_package(OpenRACMod 1.36 REQUIRED)
 
 openrac_add_mod(showroom MANIFEST openrac-mod.json SOURCES src/showroom.c)
 

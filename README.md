@@ -1,8 +1,10 @@
 # Showroom Star Explorer
 
-Blargian Red becomes Showroom Silver, and Playthrough 1 starts with the showroom Star Explorer: Split Nose, Hi-Lift Wings, Triple Boost Acceleration Engine, Fusion Laser Cannons, Multi-Torpedo Launcher and Mega-Mine Launcher.
+A new ship paint, **Showroom Silver**, and a new game that starts with the showroom Star Explorer: Split Nose, Hi-Lift Wings, Triple Boost Acceleration Engine, Fusion Laser Cannons, Multi-Torpedo Launcher, Mega-Mine Launcher and Showroom Silver.
 
-By Slim Cognito. For Ratchet & Clank: Going Commando (NTSC-U v1.01) in OpenRAC.
+At Slim Cognito's Ship Shack, Blargian Red is the first paint and needs no skill points, so you can switch back to it as soon as you get there; Showroom Silver comes right after it, also free. Showroom Silver is the game's finished but unused 18th paint slot, so every other paint is untouched. (A save made with 0.4 or earlier that had Showroom Silver fitted shows Blargian Red; buy Showroom Silver again at the Ship Shack.)
+
+By Slim Cognito. For Ratchet & Clank: Going Commando in OpenRAC, on every disc it supports: NTSC-U v1.01, NTSC-U v2.00 (Greatest Hits) and PAL.
 
 ## Building
 
